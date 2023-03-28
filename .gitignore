@@ -1,3 +1,4 @@
 node_modules
 .output
 .nitro
+ask.config.json

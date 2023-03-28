@@ -9,6 +9,7 @@
   "author": "zekun.jin",
   "license": "ISC",
   "dependencies": {
+    "c12": "^1.2.0",
     "get-port-please": "^3.0.1",
     "h3": "^1.6.2",
     "h3-vee": "^0.0.3",
